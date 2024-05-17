@@ -1,0 +1,93 @@
+/* General */
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  text-align: center;
+  font-family: Inter, Roboto, sans-serif;
+  color: #ccc;
+  margin: 3rem 0;
+}
+
+.df-viz {
+  margin: 32px auto 64px;
+  font-family: Inter, Roboto, sans-serif;
+}
+
+/* Navigation */
+.viz-nav-title {
+  margin: 0 8px;
+  font-weight: 900;
+}
+
+.viz-nav {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 680px;
+  margin: 32px auto;
+}
+
+.viz-nav-option {
+  margin: 4px 12px;
+  cursor: pointer;
+  font-weight: 800;
+  color: #999;
+  border: 1px solid #666;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  background: #fafafa;
+
+  transition: all 250ms;
+}
+
+.viz-nav-option:hover {
+  opacity: 0.8;
+}
+
+.viz-nav-option.selected {
+  color: #ffffff;
+  border: 2px solid #005bde;
+  background: #005bde;
+}
+
+/* Chart */
+.df-viz .viz-chart {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  box-shadow: 0px 4px 80px rgb(83,174,224, 0.1);
+  border-radius: 3px;
+}
+
+.viz-base-chart,
+.viz-direct-chart {
+  position: relative;
+  width: 100%;
+  /* base charts height is determined by API chart */
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 500ms ease-in;
+
+  /* base and direct charts share the same parent div, but only one (the
+  `.active` one) will be shown */
+  display: none;
+}
+
+.viz-direct-chart {
+  height: 500px;
+}
+
+.active-chart {
+  pointer-events: all;
+  opacity: 1;
+  display: block;
+}

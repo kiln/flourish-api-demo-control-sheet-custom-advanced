@@ -1,0 +1,14 @@
+﻿section,container,chart_index,chart_label,base_chart,direct_chart,chart_type,label,value,filter,title,subtitle,facet,x_label,y_label,legend,color_overrides
+Births,#births,1,Live births,18002313,,,year,"England, Wales, Scotland, Northern Ireland",,{{question}},,,Years,Number of live births,single,England: #005bde
+Births,#births,1,Live births (grid),18002313,,area_stacked,year,"England, Wales, Scotland, Northern Ireland",,{{question}},,yes,,Number of live births,,England: #005bde
+Births,#births,1,Live births (England),18002313,,area_stacked,year,England,year_focus :: eq :: include,Number of births in England declining,Just showing years from 2000,,,Number of live births,,England: #005bde
+Births,#births,1,Live births (Wales),18002313,,area_stacked,year,Wales,,Number of births in Wales declining,,,,Number of live births,,England: #005bde
+Births,#births,1,Live births (Scotland),18002313,,area_stacked,year,Scotland,,Number of births in Scotland declining,,,,Number of live births,,England: #005bde
+Births,#births,1,Live births (NI),18002313,,area_stacked,year,Northern Ireland,,Number of births in Northern Ireland declining,,,,Number of live births,,England: #005bde
+Birth rate,#birth-rate,2,Birth rate over time,,18002172,,,,,,,,,,,
+Birth rate,#birth-rate,2,Birth rate in the UK,18002192,,,country,value,,Northern Ireland had highest birth rate in the UK in 2020,{{question}},,,,,"United Kingdom: #005bde
+Wales: #005bde
+Scotland: #005bde
+Northern Ireland: #005bde
+England: #005bde"
+Birth rate,#birth-rate,3,Birth rate worldwide,18002192,,,country,value,,"Worldwide, India has the highest birth rate",Top 40 countries with highest birth rates,,,,,United Kingdom: #005bde

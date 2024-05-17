@@ -1,0 +1,118 @@
+﻿chart_index,year,question,England,Wales,Scotland,Northern Ireland,year_focus,country,value
+1,2020,Number of live births,"585,195","28,638","46,809","20,815",include,,
+1,2019,Number of live births,"610,505","29,704","49,863","22,447",include,,
+1,2018,Number of live births,"625,651","31,274","51,308","22,829",include,,
+1,2017,Number of live births,"646,794","32,176","52,861","23,075",include,,
+1,2016,Number of live births,"663,157","32,936","54,488","24,076",include,,
+1,2015,Number of live births,"664,399","33,279","55,098","24,215",include,,
+1,2014,Number of live births,"661,496","33,544","56,725","24,394",include,,
+1,2013,Number of live births,"664,517","33,747","56,014","24,277",include,,
+1,2012,Number of live births,"694,241","35,238","58,027","25,269",include,,
+1,2011,Number of live births,"688,120","35,598","58,590","25,273",include,,
+1,2010,Number of live births,"687,007","35,952","58,791","25,315",include,,
+1,2009,Number of live births,"671,058","34,937","59,046","24,910",include,,
+1,2008,Number of live births,"672,809","35,650","60,041","25,631",include,,
+1,2007,Number of live births,"655,357","34,414","57,781","24,451",include,,
+1,2006,Number of live births,"635,748","33,628","55,690","23,272",include,,
+1,2005,Number of live births,"613,028","32,593","54,386","22,328",include,,
+1,2004,Number of live births,"607,184","32,325","53,957","22,318",include,,
+1,2003,Number of live births,"589,851","31,400","52,432","21,648",include,,
+1,2002,Number of live births,"565,709","30,205","51,270","21,385",include,,
+1,2001,Number of live births,"563,744","30,616","52,527","21,962",include,,
+1,2000,Number of live births,"572,826","31,304","53,076","21,512",include,,
+1,1999,Number of live births,"589,468","32,111","55,147","22,957",,,
+1,1998,Number of live births,"602,111","33,438","57,319","23,668",,,
+1,1997,Number of live births,"608,202","34,520","59,440","24,087",,,
+1,1996,Number of live births,"614,184","34,894","59,296","24,382",,,
+1,1995,Number of live births,"613,257","34,477","60,051","23,693",,,
+1,1994,Number of live births,"628,956","35,366","61,656","24,098",,,
+1,1993,Number of live births,"636,473","36,578","63,337","24,722",,,
+1,1992,Number of live births,"651,784","37,523","65,789","25,354",,,
+1,1991,Number of live births,"660,806","38,079","67,024","26,028",,,
+1,1990,Number of live births,"666,920","38,866","65,973","26,251",,,
+1,1989,Number of live births,"649,357","38,019","63,480","25,831",,,
+1,1988,Number of live births,"654,363","38,824","66,212","27,514",,,
+1,1987,Number of live births,"643,330","37,816","66,241","27,653",,,
+1,1986,Number of live births,"623,609","37,038","65,812","27,975",,,
+1,1985,Number of live births,"619,301","36,771","66,676","27,427",,,
+1,1984,Number of live births,"600,573","35,861","65,106","27,477",,,
+1,1983,Number of live births,"593,255","35,494","65,078","27,026",,,
+1,1982,Number of live births,"589,711","35,720","66,196","26,872",,,
+1,1981,Number of live births,"598,163","35,842","69,054","27,166",,,
+1,1980,Number of live births,"618,371","37,357","68,892","28,582",,,
+1,1979,Number of live births,"601,316","36,174","68,366","28,178",,,
+1,1978,Number of live births,"562,589","33,308","64,295","26,239",,,
+1,1977,Number of live births,"536,953","31,765","62,342","25,437",,,
+1,1976,Number of live births,"550,383","33,378","64,895","26,361",,,
+1,1975,Number of live births,"568,900","33,972","67,943","26,130",,,
+1,1974,Number of live births,"603,153","36,206","70,093","27,160",,,
+1,1973,Number of live births,"638,356","37,597","74,392","29,200",,,
+1,1972,Number of live births,"685,485","39,955","78,550","29,994",,,
+1,1971,Number of live births,"740,099","43,056","86,728","31,765",,,
+1,1970,Number of live births,"741,999","42,487","87,335","32,086",,,
+1,1969,Number of live births,"754,456","43,082","90,290","32,428",,,
+1,1968,Number of live births,"775,065","44,207","94,786","33,173",,,
+1,1967,Number of live births,"788,458","43,706","96,221","33,415",,,
+1,1966,Number of live births,"804,957","44,866","96,536","33,228",,,
+1,1965,Number of live births,"816,433","46,292","100,660","33,890",,,
+1,1964,Number of live births,"828,470","47,502","104,355","34,345",,,
+1,1963,Number of live births,"807,017","47,038","102,691","33,414",,,
+1,1962,Number of live births,"793,354","45,382","104,334","32,565",,,
+1,1961,Number of live births,"766,358","44,923","101,169","31,915",,,
+1,1960,Number of live births,"740,858","44,147","101,292","31,989",,,
+1,1959,Number of live births,"706,239","42,262","99,251","30,809",,,
+1,1958,Number of live births,"698,255","42,460","99,481","30,301",,,
+1,1957,Number of live births,"681,736","41,645","97,977","30,108",,,
+1,1956,Number of live births,"659,420","40,915","95,313","29,489",,,
+1,1955,Number of live births,"628,935","38,876","92,539","28,965",,,
+1,1954,Number of live births,"633,395","40,256","92,315","28,803",,,
+1,1953,Number of live births,"642,844","41,528","90,913","28,984",,,
+1,1952,Number of live births,"632,347","41,388","90,422","28,760",,,
+1,1951,Number of live births,"636,259","41,270","90,639","28,477",,,
+1,1950,Number of live births,"654,321","42,776","92,530","28,794",,,
+1,1949,Number of live births,"686,181","44,337","95,674","29,106",,,
+1,1948,Number of live births,"728,131","47,175","100,344","29,532",,,
+1,1947,Number of live births,"829,863","51,163","113,147","31,254",,,
+1,1946,Number of live births,"773,153","47,566","104,413","30,134",,,
+1,1945,Number of live births,"638,422","41,515","86,924","29,007",,,
+1,1944,Number of live births,"704,748","46,730","95,920","30,900",,,
+1,1943,Number of live births,"641,064","43,270","94,669","31,521",,,
+1,1942,Number of live births,"608,373","43,130","90,703","29,645",,,
+1,1941,Number of live births,"539,205","39,886","89,748","26,887",,,
+1,1940,Number of live births,"567,710","39,319","86,392","25,363",,,
+1,1939,Number of live births,"581,950","37,402","86,913","25,240",,,
+1,1938,Number of live births,"583,579","37,625","88,627","25,742",,,
+1,1937,Number of live births,"573,382","37,175","87,810","25,412",,,
+1,1936,Number of live births,"567,383","37,909","88,928","25,909",,,
+1,1935,Number of live births,"559,569","39,187","87,928","24,742",,,
+1,1934,Number of live births,"557,686","39,956","88,836","25,365",,,
+1,1933,Number of live births,"540,989","39,424","86,546","24,601",,,
+1,1932,Number of live births,"573,099","40,873","91,000","25,107",,,
+1,1931,Number of live births,"589,751","42,330","92,220","25,673",,,
+1,1930,Number of live births,"604,870","43,941","94,549","25,879",,,
+1,1929,Number of live births,"599,078","44,595","92,880","25,410",,,
+2,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,United Kingdom,10.2
+2,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,England,10.3
+2,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Wales,9
+2,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Scotland,8.6
+2,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Northern Ireland,11
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,India,17.4
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Australia,12.5
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,New Zealand,12.4
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,USA,12
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,China,11.3
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Irish Republic,11.2
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Cyprus,11.1
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,France,10.9
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Sweden,10.9
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Denmark,10.4
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Slovakia,10.4
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Czech Republic,10.3
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Canada,10.3
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,United Kingdom,10.2
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Luxembourg,10.2
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Belgium,9.9
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Estonia,9.9
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Netherlands,9.7
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Hungary,9.6
+3,2020,"Crude birth rate (Live births per 1,000 population)",,,,,,Austria,9.4
