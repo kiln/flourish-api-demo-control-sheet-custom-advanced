@@ -5,14 +5,14 @@ body {
 
 h1 {
   text-align: center;
-  font-family: Inter, Roboto, sans-serif;
+  font-family: Inter, sans-serif;
   color: #ccc;
   margin: 3rem 0;
 }
 
 .df-viz {
   margin: 32px auto 64px;
-  font-family: Inter, Roboto, sans-serif;
+  font-family: Inter, sans-serif;
 }
 
 /* Navigation */
@@ -64,7 +64,7 @@ h1 {
   margin: 0 auto;
   padding: 2rem;
   background-color: #fff;
-  box-shadow: 0px 4px 80px rgb(83,174,224, 0.1);
+  box-shadow: 0px 4px 80px rgb(83, 174, 224, 0.1);
   border-radius: 3px;
 }
 
